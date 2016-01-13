@@ -1,8 +1,8 @@
 {
   "name": "address-autocomplete",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "authors": [
-    "Kunal Kundaje <kunal@kundaje.net>"
+    "Ray Ie <ie.raymond@gmail.com>"
   ],
   "description": "A Polymer address form element that offers suggestions from the Google Maps API as you type.",
   "keywords": [
@@ -13,7 +13,7 @@
   ],
   "main": "address-autocomplete.html",
   "license": "",
-  "homepage": "https://github.com/kunalkundaje/address-autocomplete/",
+  "homepage": "https://github.com/rayie/address-autocomplete/",
   "ignore": [
     "/.*",
     "/test/",

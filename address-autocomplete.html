@@ -86,12 +86,14 @@ Example:
     },
 
     attached: function() {
+      //console.log("address autocomplete ATTACHED");
       this._initialize();
     },
 
     detached: function() {
+      //console.log("address autocomplete DETACHED");
       this.autocomplete = null;
-      window.google = null;
+      //window.google = null;
     },
 
     _mapsApiLoaded: function() {
